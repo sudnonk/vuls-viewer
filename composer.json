@@ -1,0 +1,15 @@
+{
+    "name": "sudnonk/vuls-viewer",
+    "description": "A viewer for Vuls in Japanese",
+    "type": "project",
+    "require": {
+        "ext-json": "^1.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sudnonk",
+            "email": "sudnonk12@yahoo.co.jp"
+        }
+    ]
+}
